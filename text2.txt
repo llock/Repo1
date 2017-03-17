@@ -1,1 +1,1 @@
-text2 - test smart commit. Sounds like additional add ons required to perform #resolve.  
+text2 - test smart commit. Try to tag issue # and #done.  
