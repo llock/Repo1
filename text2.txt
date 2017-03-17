@@ -1,1 +1,1 @@
-text2 - test smart commit
+text2 - test smart commit again to change status to done 
